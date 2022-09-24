@@ -1,0 +1,23 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "Mi porfolio de experiencias y proyectos de desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristian-Orellana/porfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cristian-Orellana/porfolio/issues"
+  },
+  "homepage": "https://github.com/Cristian-Orellana/porfolio#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
